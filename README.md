@@ -1,6 +1,6 @@
 # Instagram profile design
 ![](https://i.imgur.com/lj4XpcY.png)
-# Visit the preview page [here](https://alexfiorenza.github.io/instagram-profile-design/)
+# Visit the preview page [here](https://alexfiorenza-2c3903b38e.drafts.github.io/instagram-profile-design/)
 ## HTML Code (replace)
 ```html
 <figure class="profile-img">
